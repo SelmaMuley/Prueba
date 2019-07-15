@@ -16,5 +16,13 @@ bliblibli
 
 modificando para hacer fetch y merge
 
+<<<<<<< HEAD
 Aquí estoy haciendo cambios
 
+=======
+
+
+
+
+Aquí también estoy haciendo cambios
+>>>>>>> e40a22ff7cd0a26580049b7190f81ff7ad5c2f04
