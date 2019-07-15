@@ -1,2 +1,21 @@
 hola, me llamo selma argelia muley salas
 que tal?
+<<<<<<< HEAD
+=======
+Tengo 27 años y nací en Madrid
+
+Esto es una nueva línea
+
+Hoy es programadora juniorç
+
+Esto es un cambio para probar el fetch y merge.
+Otro parrafo de ejemplo.
+Otro más.
+
+blablabla
+blebleble
+bliblibli
+
+modificando para hacer fetch y merge
+
+>>>>>>> origin/master
